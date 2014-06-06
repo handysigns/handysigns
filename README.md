@@ -38,11 +38,7 @@ Rate received audio quality on scale from zero (nothing heard) to five (loud and
 * …
 * 5 - fingers spread with palm facing camera.
 
-![Quality level 1](https://raw.githubusercontent.com/handysigns/handysigns/master/images/gestures/quality_1.jpg?raw=true "Quality level 1")
-
-...
-
-![Quality level 5](https://raw.githubusercontent.com/handysigns/handysigns/master/images/gestures/quality_5.jpg?raw=true "Quality level 5")
+![Quality level](https://raw.githubusercontent.com/handysigns/handysigns/master/images/gestures/quality.gif?raw=true "Quality level")
 
 ## I am not receiving you
 ### Usage
