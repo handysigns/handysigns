@@ -24,7 +24,7 @@ Determine how audio is being received by the other nodes.
 * Fingers spread.
 * Response
 
-![What is my audio quality?](images/gestures/what_is_my_audio_quality%3F.jpg?raw=true "What is my audio quality?")
+![What is my audio quality?](https://raw.githubusercontent.com/handysigns/handysigns/master/images/gestures/what_is_my_audio_quality%3F.jpg?raw=true "What is my audio quality?")
 
 ## Signal audio quality.
 Your audio quality is (0-5).
@@ -38,11 +38,11 @@ Rate received audio quality on scale from zero (nothing heard) to five (loud and
 * …
 * 5 - fingers spread with palm facing camera.
 
-![Quality level 1](images/gestures/quality_1.jpg?raw=true "Quality level 1")
+![Quality level 1](https://raw.githubusercontent.com/handysigns/handysigns/master/images/gestures/quality_1.jpg?raw=true "Quality level 1")
 
 ...
 
-![Quality level 5](images/gestures/quality_5.jpg?raw=true "Quality level 5")
+![Quality level 5](https://raw.githubusercontent.com/handysigns/handysigns/master/images/gestures/quality_5.jpg?raw=true "Quality level 5")
 
 ## I am not receiving you
 ### Usage
@@ -53,7 +53,7 @@ Communicate not audio being received from another node.
 Make fist
 Palm facing camera (same signal as your audio quality is 0).
 
-![I am not receiving you](images/gestures/I_am_not_receiving_you.jpg?raw=true "I am not receiving you")
+![I am not receiving you](https://raw.githubusercontent.com/handysigns/handysigns/master/images/gestures/I_am_not_receiving_you.jpg?raw=true "I am not receiving you")
 
 ## Mute your mic
 ### Usage
@@ -63,7 +63,7 @@ Ask node to mute their mic.
 * Make fist 
 * Back of hand facing camera
 
-![Mute your mic](images/gestures/mute_your_mic.jpg?raw=true "Mute your mic")
+![Mute your mic](https://raw.githubusercontent.com/handysigns/handysigns/master/images/gestures/mute_your_mic.jpg?raw=true "Mute your mic")
 
 ## Can you hear me?
 ### Usage
@@ -74,7 +74,7 @@ Determine if other nodes are receiving audio.
 * Thumb close to ear
 * Palm facing camera
 
-![Can you hear me?](images/gestures/can_you_hear_me%3F.jpg?raw=true "Can you hear me?")
+![Can you hear me?](https://raw.githubusercontent.com/handysigns/handysigns/master/images/gestures/can_you_hear_me%3F.jpg?raw=true "Can you hear me?")
 
 ### Response
 Yes or No hand signal.
@@ -87,7 +87,7 @@ Communicate affirmative or approval to other nodes.
 * Make fist 
 * Thumb pointing up
 
-![Yes / Approve](images/gestures/yes-approve.jpg?raw=true "Yes / Approve")
+![Yes / Approve](https://raw.githubusercontent.com/handysigns/handysigns/master/images/gestures/yes-approve.jpg?raw=true "Yes / Approve")
 
 ## No / Disapprove
 ### Usage
@@ -97,7 +97,7 @@ Communicate negative or disapproval to other nodes.
 * Make fist
 * Thumb pointing down
 
-![No / Disapprove](images/gestures/no-disapprove.jpg?raw=true "No / Disapprove")
+![No / Disapprove](https://raw.githubusercontent.com/handysigns/handysigns/master/images/gestures/no-disapprove.jpg?raw=true "No / Disapprove")
 
 ## Resend
 ### Usage
@@ -109,7 +109,7 @@ Request node re transmit recently send packets.
 * All fingers together
 * Thumb touching index finger to make circle
 
-![Resend](images/gestures/resend.jpg?raw=true "Resend")
+![Resend](https://raw.githubusercontent.com/handysigns/handysigns/master/images/gestures/resend.jpg?raw=true "Resend")
 
 ### Response
 Node will retransmit previous packets.
@@ -122,7 +122,7 @@ Request node adjust video framing.
 * Pistol grip
 * Index finger and thumb extended at right angles
 
-![Adjust your video framing](images/gestures/adjust_framing.jpg?raw=true "Adjust your video framing")
+![Adjust your video framing](https://raw.githubusercontent.com/handysigns/handysigns/master/images/gestures/adjust_framing.jpg?raw=true "Adjust your video framing")
 
 ## Video off
 ### Usage
@@ -137,7 +137,7 @@ Sending or receiving nodes change to audio only mode.
 * And/Or you shut your video off
 * Audio continues
 
-![Video off](images/gestures/video_off.jpg?raw=true "Video off")
+![Video off](https://raw.githubusercontent.com/handysigns/handysigns/master/images/gestures/video_off.jpg?raw=true "Video off")
 
 ## There is background noise
 ### Usage
@@ -148,7 +148,7 @@ Node is receiving background noise.
 * Fingertips toward and near ear
 * Blade of hand towards camera
 
-![Background Noise](images/gestures/background_noise.jpg?raw=true "Background Noise")
+![Background Noise](https://raw.githubusercontent.com/handysigns/handysigns/master/images/gestures/background_noise.jpg?raw=true "Background Noise")
 
 ### Response
 * Node will stop background noise
@@ -161,7 +161,7 @@ Node needs to reestablish call because of bad connection.
 * Arm diagonal across camera frame
 * Hand pointing up and to the left
 
-![Reestablish call](images/gestures/reestablish_call.jpg?raw=true "Reestablish call")
+![Reestablish call](https://raw.githubusercontent.com/handysigns/handysigns/master/images/gestures/reestablish_call.jpg?raw=true "Reestablish call")
 
 ### Response
 Node will disconnect call and reestablish the call.
