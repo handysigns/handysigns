@@ -42,12 +42,12 @@ Rate received audio quality on scale from zero (nothing heard) to five (loud and
 
 ## I am not receiving you
 ### Usage
-Communicate not audio being received from another node.
+Communicate no audio being received from another node.
 
 ### Gesture
 
-Make fist
-Palm facing camera (same signal as your audio quality is 0).
+* Make fist
+* Palm facing camera (same signal as your audio quality is 0).
 
 ![I am not receiving you](https://raw.githubusercontent.com/handysigns/handysigns/master/images/gestures/I_am_not_receiving_you.jpg?raw=true "I am not receiving you")
 
